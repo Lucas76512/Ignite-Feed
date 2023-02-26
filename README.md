@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="60" src="https://i.imgur.com/05Qqcra.png"  />
+  <img height="60" src=".github/ignite-logo.svg"  />
 </div>
 
 ###
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="src/assets/images/IginiteFeed.png"  />
+  <img height="350" src=".github/IginiteFeed-capa.png"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="src/assets/images/IgniteFeedMobile.png"  />
+  <img height="350" src=".github/IgniteFeedMobile.png"  />
 </div>
 
 ###
@@ -49,7 +49,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/JoyceFatima/Ignite-Feed.git
+$ git clone https://github.com/Lucas76512/Ignite-Feed.git
 $ cd Ignite-Feed
 ```
 
